@@ -32,6 +32,9 @@
   <a href="https://drive.google.com/file/d/1JtfNjqJQIyNzbGm7Aew1bXxVEkefyyh8/view?usp=share_link">
       <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
   </a>
+  <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/blob/main/Software%20testing%20conference/conference.md">
+      <img src="https://github.com/jakobmalmgren/svg-youtube/blob/master/img/medium-youtube.png" title="Youtube" alt="Youtube" width="40" height="40"/>
+  </a>
 </div>
 <!---
 ValeryiaRyzhkovich/ValeryiaRyzhkovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
