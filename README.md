@@ -17,7 +17,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/SQL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
