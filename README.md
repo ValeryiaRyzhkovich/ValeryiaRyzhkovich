@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D1%80%D1%8B%D0%B6%D0%BA%D0%BE%D0%B2%D0%B8%D1%87-08b838230/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/valeria.ryzhkovich">
+  <a href="https://instagram.com/ryzhkovich.valeria">
      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
   <a href="https://t.me/v_ryzhkovich">
