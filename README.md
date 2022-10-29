@@ -23,11 +23,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Bash">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>
   </a>
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Postman">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1JtfNjqJQIyNzbGm7Aew1bXxVEkefyyh8/view?usp=share_link">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
   </a>
 </div>
 <!---
