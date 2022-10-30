@@ -1,4 +1,5 @@
-# Hello there! I'm Valeria Ryzhkovich
+### Hello there! I'm Valeria Ryzhkovich.
+### Young and ambitious QA engineer. Mentor of commercial practice on Ksendzov QA course.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif" width="300"/>
 </div>
