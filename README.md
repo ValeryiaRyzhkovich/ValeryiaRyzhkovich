@@ -15,7 +15,7 @@
   </a>
 </div>
 
-###  Languages and Tools:
+##  Languages and Tools:
 <div>
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
@@ -38,7 +38,12 @@
   </a>
 </div>
 
-### Cetificates:
+-----
+
+## Cetificates:
+1. [EF SET Certificate](https://www.efset.org/cert/VTdVmZ)
+2. [Jira Fundamentals Badge](https://university.atlassian.com/student/award/W587uunihQ2u9F2LbbiSBWpF)
+3. [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1764972)
 
 <!---
 ValeryiaRyzhkovich/ValeryiaRyzhkovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
