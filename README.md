@@ -44,6 +44,10 @@
    <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Mobile%20Apps%20testing">
       <img src="https://cdn.icon-icons.com/icons2/72/PNG/256/mobile_phone_14388.png" title="Mobile testing" alt="Mobile testing" width="50" height="50"/>
   </a>
+  
+  <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Web%20testing">
+      <img src="https://cdn.icon-icons.com/icons2/1860/PNG/512/codinghtml_118066.png" title="Web testing" alt="Web testing" width="50" height="50"/>
+  </a>
 </div>
 
 
