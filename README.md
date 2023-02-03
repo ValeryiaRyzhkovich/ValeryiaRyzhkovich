@@ -20,21 +20,29 @@
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   </a>
+  
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/SQL">
     <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
   </a>
+  
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Bash">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" title="git" alt="git" width="50" height="50")/>
   </a>
-  </a>
+  
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Postman">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
   </a>
+  
   <a href="https://drive.google.com/file/d/1JtfNjqJQIyNzbGm7Aew1bXxVEkefyyh8/view?usp=share_link">
       <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="50" height="50"/>
   </a>
+  
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/blob/main/Software%20testing%20conference/conference.md">
       <img src="https://cdn.icon-icons.com/icons2/1011/PNG/64/YouTube_icon-icons.com_75725.png" title="Youtube" alt="Youtube" width="50" height="50"/>
+  </a>
+  
+   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Mobile%20Apps%20testing">
+      <img src="https://cdn.icon-icons.com/icons2/72/PNG/256/mobile_phone_14388.png" title="Mobile testing" alt="Mobile testing" width="50" height="50"/>
   </a>
 </div>
 
