@@ -15,7 +15,7 @@
   </a>
 </div>
 
-##  ⬇️ Click the icons below and see my tasks: 
+##  ⬇️ Click the icons below and see my experiences: 
 <div>
   <a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
