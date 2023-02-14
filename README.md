@@ -50,6 +50,11 @@
   </a>
 </div>
 
+<a href="https://github.com/ValeryiaRyzhkovich/Homeworks/tree/main/Web%20Services">
+      <img src="https://cdn.icon-icons.com/icons2/534/PNG/512/data-servers_icon-icons.com_52838.png" title="Web services" alt="Web services" width="50" height="50"/>
+  </a>
+</div>
+
 
 
 ## Cetificates:
