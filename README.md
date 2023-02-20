@@ -60,6 +60,7 @@
 1. [EF SET Certificate](https://www.efset.org/cert/VTdVmZ)
 2. [Jira Fundamentals Badge](https://university.atlassian.com/student/award/W587uunihQ2u9F2LbbiSBWpF)
 3. [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1764972)
+4. [Интерактивный тренажер по SQL](https://stepik.org/cert/1961909)
 
 <!---
 ValeryiaRyzhkovich/ValeryiaRyzhkovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
